@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+out/
+publish/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains
+.idea/
+*.sln.iml
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Local settings / secrets
+appsettings.json
+*.secrets.json
+.env
+
+# Logs and generated reports
+*.log
+Miss-Subtitles.txt
