@@ -1,3 +1,4 @@
+using System.IO;
 namespace SidecarSubs.Services;
 
 public sealed class SubtitleWorkflow(ISubtitleProvider provider)
